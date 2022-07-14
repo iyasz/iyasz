@@ -5,6 +5,8 @@
 
 ### #📫  My Social Media :
 
+<br>
+
 - 🔭 I’m currently working on - 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on - 
@@ -12,7 +14,7 @@
 - 💬 Ask me about - 
 - 📫 How to reach me: - 
 - 😄 Pronouns: iyasz, yasz. 
-- ⚡ Fun fact: - 
+- ⚡ Fun fact: I like meme :3
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyasz)](https://github.com/anuraghazra/github-readme-stats)
