@@ -3,12 +3,12 @@
 
 <center><img src="bg.png" width="900" height="430"></center>
 
-### #📫  My Social Media :
+### 📫  My Social Media :
 
 <br>
 
 - 🔭 I’m currently working on - 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript, NodeJs, MySQL. 
 - 👯 I’m looking to collaborate on - 
 - 🤔 I’m looking for help with - 
 - 💬 Ask me about - 
