@@ -10,4 +10,4 @@
 - 😄 Pronouns: iyasz, yasz. 
 - ⚡ Fun fact: I like meme :3
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='34'>](https://www.instagram.com/yaszavellia/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='33'>](https://github.com/iyasz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='33'>](https://www.instagram.com/yaszavellia/)   
