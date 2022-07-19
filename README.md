@@ -6,7 +6,7 @@
 
 ### 💬 My Status :
 
-- 🌱 I’m currently learning Javascript, NodeJs, MySQL. 
+- 🌱 I’m currently learning Javascript/PHP, NodeJs/Laravel, MySQL. 
 - 😄 Pronouns: iyasz, yasz. 
 - ⚡ Fun fact: I like meme :3
 - 🤔 I’m looking for help with You 
