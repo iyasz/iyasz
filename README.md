@@ -5,9 +5,10 @@
 
 ### 💬 My Status :
 
-- 🌱 I’m currently learning Javascript/PHP, NodeJs/Laravel, MySQL. 
+- 🌱 I’m currently learning Javascript/PHP, Laravel, MySQL. 
 - 😄 Pronouns: iyasz, yasz. 
 - ⚡ Fun fact: I like meme :3
-- 🤔 I’m looking for help with You 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='33'>](https://github.com/iyasz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='33'>](https://www.instagram.com/yaszavellia/)   
+<br>
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='33'>](https://www.instagram.com/yaszavellia/)   
