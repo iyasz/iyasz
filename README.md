@@ -3,7 +3,7 @@
 #### i am a student from Bina Mandiri Multimedia high school. I also like the display design and make it too :3. I also like playing games <br> and of course coding.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69864986/180283239-f215cd9c-9c3c-42c6-b380-7f84754ee365.gif">
+  <img src="https://user-images.githubusercontent.com/69864986/180283239-f215cd9c-9c3c-42c6-b380-7f84754ee365.gf">
 </p>
 
 ### 💬 My Status :
