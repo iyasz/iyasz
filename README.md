@@ -8,7 +8,7 @@
 
 ### 💬 My Status :
 
-- 🌱 I’m currently learning Javascript/PHP, Laravel, MySQL. 
+- 🌱 I’m currently learning Javascript/PHP, Laravel, MySQL, Figma. 
 - 😄 Pronouns: iyasz. 
 - ⚡ Fun fact: I like meme :3
 
