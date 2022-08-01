@@ -1,7 +1,11 @@
-## Hi!, I'm iyasz 👋
-### Welcome To My Profile!
+<h1 align="center">
+  Hi!, I'm iyasz 👋
+</h1>
+<h3 align="center">
+   Welcome To My Profile!
+</h3>
 <p align="center">
-  #### i am a student from Bina Mandiri Multimedia high school. I also like the display design and make it too :3. I also like playing games <br> and of course coding.
+  i am a student from Bina Mandiri Multimedia high school. I also like the display design and make it too :3. I also like playing games <br> and of course coding.
 </p>
 
 <p align="center">
