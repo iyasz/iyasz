@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi!, I'm Iyasz 👋
+  Hi!, I'm iyasz 👋
 </h1>
 <h3 align="center">
    Welcome To My Profile!
