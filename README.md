@@ -5,7 +5,7 @@
    Welcome To My Profile!
 </h3>
 <p align="center">
-  i am a student from Bina Mandiri Multimedia high school. I also like the display design and make it too :3. <br> I also  like  playing games and of course coding.
+  i am a student from Bina Mandiri Multimedia high school. I also like the display design and make it too :3.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning Javascript/PHP, Laravel, MySQL, Figma. 
 - 😄 Pronouns: iyasz. 
-- ⚡ Fun fact: I like meme :3
+
 
 <br>
 
