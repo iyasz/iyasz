@@ -1,10 +1,10 @@
 <h1 align="center">
   Hi!, I'm iyasz 👋
 </h1>
-<h3 align="center">
+<h3>
    Welcome To My Profile!
 </h3>
-<p align="center">
+<p>
   i am a student from Bina Mandiri Multimedia high school. I also like the display design and make it too :3.
 </p>
 
