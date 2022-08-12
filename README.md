@@ -5,7 +5,7 @@
    Welcome To My Profile!
 </h3>
 <p>
-  i am a student from Bina Mandiri Multimedia high school. I also like the display design and make it too :3.
+  i am a student from Bina Mandiri Multimedia high school.<br> I also like the display design and make it too :3.
 </p>
 
 <p align="center">
