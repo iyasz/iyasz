@@ -14,7 +14,7 @@
 
 ### 💬 My Status :
 
-- 🌱 I’m currently learning Javascript/PHP, Laravel, MySQL, Figma. 
+- 🌱 I’m currently learning: PHP, Laravel, MySQL, Figma. 
 - 😄 Pronouns: iyasz. 
 
 
