@@ -16,6 +16,7 @@
 <p>
   $Profil = {
         "nama"    => "Ilyasa",
+        <br>
         "Kelas"   => "XI RPL",
         "Istri"   => {
                      "pertama"  => "Elaina",
