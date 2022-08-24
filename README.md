@@ -18,6 +18,7 @@
         "nama"    => "Ilyasa",
         <br>
         "Kelas"   => "XI RPL",
+        <br>
         "Istri"   => {
                      "pertama"  => "Elaina",
                      "Kedua"    => "Elaina2",
