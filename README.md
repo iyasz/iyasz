@@ -5,7 +5,6 @@
    Welcome To My Profile!
 </h3>
 <p>
-  i am a student from Bina Mandiri Multimedia high school.<br> I also like the display design and make it too :3.
 </p>
 
 <p align="center">
@@ -14,9 +13,21 @@
 
 ### 💬 My Status :
 
-- 🌱 I’m currently learning: PHP, Laravel, MySQL, Figma. 
-- 😄 Pronouns: iyasz. 
-
+<p>
+  $Profil = {
+        "nama"    => "Ilyasa",
+        "Kelas"   => "XI RPL",
+        "Istri"   => {
+                     "pertama"  => "Elaina",
+                     "Kedua"    => "Elaina2",
+                     "Ketiga"   => "Elaina3"
+                     },
+        "Anime"   => "Lu Anime",
+        "Anime"   => "Lu Anime"
+ 
+    };
+  
+</p>
 
 <br>
 
