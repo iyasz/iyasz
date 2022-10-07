@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="gitbg.png">
+  <img src="bggithub.png">
 </p>
 
 ### 💬 My Status :
