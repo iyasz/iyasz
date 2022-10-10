@@ -10,7 +10,6 @@
 <p align="center">
   <img src="bggithub.png">
 </p>
-
 ### 💬 My Status :
 
 <p>
@@ -33,7 +32,7 @@
   <br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Only For Me"   => "Elaina :3",
   <br>    
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Learn Language"   => "PHP"
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Learn Language"   => "PHP",
   <br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Learn Framework"   => "Laravel"
   <br>
