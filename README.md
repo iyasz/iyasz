@@ -11,7 +11,7 @@
   <img src="bggithub.png">
 </p>
 
-### 💬 My Status :
+### 💬 My Profil :
 
 <p>
   &nbsp;&nbsp;&nbsp;$Profil = [
