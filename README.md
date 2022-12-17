@@ -1,5 +1,5 @@
 <h1>
-  Hi!, I'm Yasz! 👋
+  Hi!, I'm Yasz Avellia! 👋
 </h1>
 <h3>
    Welcome To My Profile!
