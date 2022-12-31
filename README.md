@@ -11,10 +11,10 @@
   <img src="bggithub.png">
 </p>
 
-### 💬 My Profil :
+### 💬 My Profile :
 
 <p>
-  &nbsp;&nbsp;&nbsp;$Profil = [
+  &nbsp;&nbsp;&nbsp;$Profile = [
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Name"    => "Muhammad Ilyasa",
         <br>
