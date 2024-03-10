@@ -1,5 +1,5 @@
 <h1>
-  Hiello World!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+   Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >
 </h1>
 
 <img align='right' src='elaina.gif' width='270'>
