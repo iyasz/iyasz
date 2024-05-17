@@ -1,3 +1,5 @@
+
+
 <h1>
    Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >
 </h1>
@@ -10,7 +12,7 @@
 
 <h3>Every Day Increased by 1 Percent.</h3>
 
-Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia dan Saya merupakan murid dari SMK Bina Mandiri Multimedia, Cileungsi 🏫.
+Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia. Saya merupakan murid dari SMK Bina Mandiri Multimedia, Cileungsi 🏫.
 
 <h6>Seseorang tidak hanya melakukan kesalahan, tetapi juga menjalani suatu pengalaman. Dari setiap pengalaman itu, kita dapat belajar dan berkembang</h6>
 <br>
