@@ -12,7 +12,7 @@
 
 <h3>Every Day Increased by 1 Percent.</h3>
 
-Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia. Saya merupakan murid dari SMK Bina Mandiri Multimedia, Cileungsi 🏫.
+Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia. Saya merupakan lulusan yang berasal dari SMK Bina Mandiri Multimedia, Cileungsi 🏫.
 
 <h6>Seseorang tidak hanya melakukan kesalahan, tetapi juga menjalani suatu pengalaman. Dari setiap pengalaman itu, kita dapat belajar dan berkembang</h6>
 <br>
