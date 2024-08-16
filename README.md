@@ -16,7 +16,7 @@ Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia. Saya merupak
 
 <h6>Seseorang tidak hanya melakukan kesalahan, tetapi juga menjalani suatu pengalaman. Dari setiap pengalaman itu, kita dapat belajar dan berkembang</h6>
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-20B2AA?style=for-the-badge)](https://iyasz.github.com/portfolio)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-20B2AA?style=for-the-badge)](https://iyasz.github.io/portfolio)
 
 
 <br>
