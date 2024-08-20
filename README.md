@@ -23,7 +23,7 @@ Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia. Saya merupak
 
 ## ⚡ Technologies
 * Front-end development using HTML, Javascript, CSS, Bootstrap, JQuery, Tailwind, VueJs.
-* Backend development using Laravel, Go (Still Learning).
+* Backend development using Laravel, NodeJs (Still Learning).
 * Design using Figma.
 * Using Relational Database Management Systems.
 
