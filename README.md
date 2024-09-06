@@ -1,10 +1,12 @@
 
 
 <h1>
-   Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >
+   Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >
 </h1>
 
-<img align='right' src='elaina.gif' width='270'>
+<img align='right' src='https://media.tenor.com/GmAhHUwsOe8AAAAi/elaina-anime-pat.gif"' width='270' >
+<div></div>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadilyasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ilyasa-465284246/)](https://www.linkedin.com/in/muhammad-ilyasa-465284246/) 
 [![Gmail Badge](https://img.shields.io/badge/-muhammad.ilyaasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.ilyaasa@gmail.com)](mailto:muhammad.ilyaasa@gmail.com)
@@ -28,4 +30,5 @@ Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia. Saya merupak
 * Using Relational Database Management Systems.
 
 ![Yasz github stats](https://github-readme-stats.vercel.app/api?username=iyasz&hide=["issues"]&show_icons=true)
+
   
