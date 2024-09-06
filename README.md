@@ -1,12 +1,10 @@
 
 
 <h1>
-   Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >
+  Hello There  <img src="hello.gif" width="50px" >
 </h1>
 
-<img align='right' src='https://media.tenor.com/GmAhHUwsOe8AAAAi/elaina-anime-pat.gif"' width='270' >
-<div></div>
-
+<img align='right' src='elaina.gif' width='270' >
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadilyasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ilyasa-465284246/)](https://www.linkedin.com/in/muhammad-ilyasa-465284246/) 
 [![Gmail Badge](https://img.shields.io/badge/-muhammad.ilyaasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.ilyaasa@gmail.com)](mailto:muhammad.ilyaasa@gmail.com)
@@ -31,4 +29,15 @@ Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia. Saya merupak
 
 ![Yasz github stats](https://github-readme-stats.vercel.app/api?username=iyasz&hide=["issues"]&show_icons=true)
 
-  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div align='center'>
+   <img src='kitakita.gif' width='200px' >
+   <h1>Not Found Status 200 ok</h1>
+</div>
+
