@@ -44,7 +44,7 @@ Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia. Saya merupak
 ## What Are You Looking For <img src="https://media.tenor.com/19B3eSbZ7CkAAAAi/verycat-cat-eating-chips.gif" width="30" /> ? 
 
 <div>
-  <img src="https://count.getloli.com/@:iyasz?theme=miku&padding=6" alt=":iyasz" align="right" width="420" />
+  <img src="https://count.getloli.com/@:iyasz?theme=miku&padding=5" alt=":iyasz" align="right" width="420" />
 </div>
 
 Visit Counter : `count.getloli.com`
