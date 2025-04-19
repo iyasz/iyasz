@@ -10,18 +10,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-muhammad.ilyaasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.ilyaasa@gmail.com)](mailto:muhammad.ilyaasa@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-yaszavellia-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=https://www.instagram.com/yaszavellia/)](https://www.instagram.com/yaszavellia/)
 
-<h3>Every Day Increased by 1 Percent.</h3>
+<h3>My goals is not to be better than others, but to be better than yesterday.</h3>
 
-Nama Saya Muhammad Ilyasa 😃. Saya berasal dari Bogor, Indonesia. Saya merupakan developer yang kepo banyak teknologi, tapi teknologi nya ga habis habis ~
+Yo (. ❛ ᴗ ❛.) &nbsp; Saya merupakan developer yang kepo banyak teknologi, tapi teknologi nya ga habis habis ~  
+An Undergraduate Student at <b>Cyber Unversity</b>.
 
-<h6>Seseorang tidak hanya melakukan kesalahan, tetapi juga menjalani suatu pengalaman. Dari setiap pengalaman itu, kita dapat belajar dan berkembang</h6>
+<h6>KIta bukan melakukan kesalahan, tetapi hanya menjalani suatu pengalaman. Dari setiap pengalaman itu, kita dapat belajar dan berkembang</h6>
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-20B2AA?style=for-the-badge)](https://iyasz.github.io/portfolio)
 
 
 <br>
 
-## 🦾 Technologies
+## My Technologies
 * Frontend development using HTML, JavaScript, CSS, Bootstrap, jQuery, Tailwind, Vue.js, and others.
 * Backend development using Laravel, Ruby on Rails, NodeJs, and Go Fiber (Still Learning).
 * Design using Figma.
