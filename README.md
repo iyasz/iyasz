@@ -12,8 +12,7 @@
 
 <h3>My goals is not to be better than others, but to be better than yesterday.</h3>
 
-Yo (. ❛ ᴗ ❛.) &nbsp; Saya merupakan developer yang kepo banyak teknologi, tapi teknologi nya ga habis habis ~  
-An Undergraduate Student at <b>Cyber Unversity</b>.
+Yo (. ❛ ᴗ ❛.) &nbsp; An Undergraduate Student at <b>Cyber Unversity</b>. Saya merupakan developer yang kepo banyak teknologi, tapi teknologi nya ga habis habis, but let me learn it for a while~ 
 
 <h6>KIta bukan melakukan kesalahan, tetapi hanya menjalani suatu pengalaman. Dari setiap pengalaman itu, kita dapat belajar dan berkembang</h6>
 
@@ -30,7 +29,7 @@ An Undergraduate Student at <b>Cyber Unversity</b>.
   
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyasz&hide_progress=true&hide=html,css,python,hack,stylus,blade,ejs,java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyasz&hide_progress=true&hide=html,css,SCSS,hack,stylus,blade,ejs,java)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media.tenor.com/r55dg3T_VJEAAAAi/goofy-cat-cat-meme.gif" width="290" /> 
 
