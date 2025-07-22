@@ -21,14 +21,14 @@ Yo (. ❛ ᴗ ❛.) &nbsp; An Undergraduate Student. Saya merupakan developer ya
 <br>
 <br>
 
-## $ Things I Love Using ...(*￣０￣)ノ
+## $ Things I Love Using &nbsp;&nbsp; ...(*￣０￣)ノ
 These are the tools and technologies I use regularly and enjoy the most: <br/>
 
 <img src="https://psbadge.netlify.app/b/laravel.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/go.png" width="150px" /> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/vue.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/bun.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/postgre.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/redis.png" width="150px"/>
 
 <br>
 
-##  $ Tech I Sometimes Use ...(* ￣︿￣)
+##  $ Tech I Sometimes Use &nbsp;&nbsp; ...(* ￣︿￣)
 These are some tools I’ve explored or used occasionally: <br/>
 
 <img src="https://psbadge.netlify.app/b/typescript.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/ror.png" width="150px" /> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/mongo.png" width="150px"/>
