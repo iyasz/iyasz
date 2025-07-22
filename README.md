@@ -12,27 +12,39 @@
 
 <h3>My goals is not to be better than others, but to be better than yesterday.</h3>
 
-Yo (. ❛ ᴗ ❛.) &nbsp; An Undergraduate Student at <b>Cyber Unversity</b>. Saya merupakan developer yang kepo banyak teknologi, tapi teknologi nya ga habis habis, but let me learn it for a while~ 
+Yo (. ❛ ᴗ ❛.) &nbsp; An Undergraduate Student. Saya merupakan developer yang kepo banyak teknologi, tapi teknologi nya ga habis habis, but let me learn it for a while~ 
 
 <h6>KIta bukan melakukan kesalahan, tetapi hanya menjalani suatu pengalaman. Dari setiap pengalaman itu, kita dapat belajar dan berkembang</h6>
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-20B2AA?style=for-the-badge)](https://iyasz.github.io/portfolio)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-20B2AA?style=for-the-badge)](https://iyasz.github.io/portfolio) &nbsp; [![Write Up](https://img.shields.io/badge/WriteーUp-EAEAEA?style=for-the-badge)](https://google.com)
 
+<br>
+<br>
+
+## $ Things I Love Using ...(*￣０￣)ノ
+These are the tools and technologies I use regularly and enjoy the most: <br/>
+
+<img src="https://psbadge.netlify.app/b/laravel.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/go.png" width="150px" /> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/vue.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/bun.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/postgre.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/redis.png" width="150px"/>
 
 <br>
 
-## My Technologies
-* Frontend development using HTML, JavaScript, CSS, Bootstrap, jQuery, Tailwind, Vue.js, and others.
-* Backend development using Laravel, Ruby on Rails, NodeJs, and Go Fiber (Still Learning).
-* Design using Figma.
-* Using Relational Database Management Systems.
-  
+##  $ Tech I Sometimes Use ...(* ￣︿￣)
+These are some tools I’ve explored or used occasionally: <br/>
+
+<img src="https://psbadge.netlify.app/b/typescript.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/ror.png" width="150px" /> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/mongo.png" width="150px"/>
+
+
+<br>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyasz&hide_progress=true&hide=html,css,SCSS,hack,stylus,blade,ejs,java)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media.tenor.com/r55dg3T_VJEAAAAi/goofy-cat-cat-meme.gif" width="290" /> 
 
+<br/>
+<br/>
+
+<img src="https://media1.tenor.com/m/CpQfMqL9LU0AAAAC/elaina-anime-chibi.gif" width="200" />
 
 <br/>
 <br/>
