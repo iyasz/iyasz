@@ -19,6 +19,10 @@ Orang ganteng, keren, kece abis. Masih pemula, gaada jago jagonya. Gatau jagonya
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-20B2AA?style=for-the-badge)](https://iyasz.github.io/portfolio) &nbsp; [![Write Up](https://img.shields.io/badge/WriteーUp-EAEAEA?style=for-the-badge)](https://google.com)
 
 <br>
+
+<img src="https://www.codewars.com/users/iyasz/badges/micro" width="150px" />
+
+<br>
 <br>
 
 ## $ Things I Love Using
@@ -52,13 +56,13 @@ These are some tools I’ve explored or used occasionally: <br/>
 
 
 
-## What Are You Looking For <img src="https://media.tenor.com/19B3eSbZ7CkAAAAi/verycat-cat-eating-chips.gif" width="30" /> ? 
+## Masih pemula enjoyers <img src="https://media.tenor.com/8VuZc8I8f7EAAAAi/oiia-cat.gif" width="30" /> 
 
 <div>
-  <img src="https://count.getloli.com/@:iyasz?theme=miku&padding=5" alt=":iyasz" align="right" width="370" />
+  <img src="https://count.getloli.com/@:iyasz?theme=miku&padding=5" alt=":iyasz" align="right" width="400" />
 </div>
 
-Visit Counter : `count.getloli.com`
+Credit to : `count.getloli.com`
 
 <p>Let's connected on LinkedIn sir. <br/> Meski gaada isinya buat dilihat sama sekali sih ..</p>
 
