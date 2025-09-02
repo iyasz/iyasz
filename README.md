@@ -12,7 +12,7 @@
 
 <h3>My goals is not to be better than others, but to be better than yesterday.</h3>
 
-Yo (. ❛ ᴗ ❛.) &nbsp; An Undergraduate Student. Saya merupakan developer yang kepo banyak teknologi, tapi teknologi nya ga habis habis, but let me learn it for a while~ 
+Orang ganteng, keren, kece abis. Masih pemula, gaada jago jagonya. Gatau jagonya kapan. Mending ternak ayam biar financial freedom ..
 
 <h6>KIta bukan melakukan kesalahan, tetapi hanya menjalani suatu pengalaman. Dari setiap pengalaman itu, kita dapat belajar dan berkembang</h6>
 
@@ -21,14 +21,14 @@ Yo (. ❛ ᴗ ❛.) &nbsp; An Undergraduate Student. Saya merupakan developer ya
 <br>
 <br>
 
-## $ Things I Love Using ￣０￣
+## $ Things I Love Using
 These are the tools and technologies I use regularly and enjoy the most: <br/>
 
 <img src="https://psbadge.netlify.app/b/laravel.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/go.png" width="150px" /> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/vue.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/bun.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/postgre.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/redis.png" width="150px"/>
 
 <br>
 
-##  $ Tech I Sometimes Use ￣︿￣
+##  $ Tech I Sometimes Use
 These are some tools I’ve explored or used occasionally: <br/>
 
 <img src="https://psbadge.netlify.app/b/typescript.png" width="150px"/> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/ror.png" width="150px" /> &nbsp;&nbsp; <img src="https://psbadge.netlify.app/b/mongo.png" width="150px"/>
@@ -44,7 +44,6 @@ These are some tools I’ve explored or used occasionally: <br/>
 <br/>
 <br/>
 
-<img src="https://media1.tenor.com/m/CpQfMqL9LU0AAAAC/elaina-anime-chibi.gif" width="200" />
 
 <br/>
 <br/>
@@ -61,13 +60,12 @@ These are some tools I’ve explored or used occasionally: <br/>
 
 Visit Counter : `count.getloli.com`
 
-<p>Terima kasih telah berkunjung di akunku! Sekarang bukankah <br/> waktunya untuk kita terhubung di <strong>Linkedin</strong> ?</p>
+<p>Let's connected on LinkedIn sir. <br/> Meski gaada isinya buat dilihat sama sekali sih ..</p>
 
 
 <a href="https://www.linkedin.com/in/muhammad-ilyasa-465284246/">
   <img src="https://img.shields.io/badge/Connect now-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
 
 
 
